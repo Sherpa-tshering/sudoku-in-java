@@ -5,7 +5,7 @@ A simple Sudoku game built with Java and Swing.
 
 ## Installation 
 1. Clone this repository:
-
+https://github.com/Sherpa-tshering/sudoku-in-java.git
 
 2. Open the project in VS Code or your preferred IDE.
 3. Run the "Sdk.java" file.
