@@ -23,5 +23,5 @@ A simple Sudoku game built with Java and Swing.
 - Provide a hint feature
 
 ## Credits
-Developed by [Tshering Sherpa](https://github.com/your-username)
+Developed by [Tshering Sherpa](https://github.com/Sherpa-tshering)
 
